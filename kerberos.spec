@@ -4,7 +4,7 @@
 #
 Name     : kerberos
 Version  : 1.2.4
-Release  : 6
+Release  : 7
 URL      : https://pypi.python.org/packages/source/k/kerberos/kerberos-1.2.4.tar.gz
 Source0  : https://pypi.python.org/packages/source/k/kerberos/kerberos-1.2.4.tar.gz
 Summary  : Kerberos high-level interface
