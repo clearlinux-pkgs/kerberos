@@ -2,4 +2,3 @@ libc.so.6
 libcom_err.so.2
 libgssapi_krb5.so.2
 libkrb5.so.3
-libpthread.so.0
